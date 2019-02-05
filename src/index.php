@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Donovan Hare's official website, acting as a portal to all of his web development endeavours.">
+  	    <meta name="keywords" content="Donovan,Hare,PHP,JS,Laravel,JavaScript,Web development">
+          <title>Donovan Hare - Full Stack Developer</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+        <link rel="stylesheet" href="/css/style.css">        
+    </head>
+    <body>
+        <section class="hero is-dark is-fullheight is-bold">
+            
+            <div class="hero-body">
+                <div class="container has-text-centered"><!-- has-text-centered -->
+                    <p class="title is-2">
+                        Donovan Hare
+                    </p>
+                    <p class="subtitle  is-4">Full Stack Developer</p>
+                    <p class="buttons is-centered">
+                        <a class="button" title="GitHub">
+                            <span class="icon">
+                                <i class="fab fa-github fa-lg"></i>
+                            </span>
+                        </a>
+                        <a class="button" title="LinkedIn">
+                            <span class="icon">
+                                <i class="fab fa-linkedin fa-lg"></i>
+                            </span>
+                        </a>
+                        <a class="button" title="Twitter">
+                            <span class="icon">
+                                <i class="fab fa-twitter fa-lg"></i>
+                            </span>
+                        </a>
+                        <a class="button" title="KeyBase">
+                            <span class="icon">
+                                <i class="fab fa-keybase fa-lg"></i>
+                            </span>
+                        </a>
+                        <a class="button" title="Email">
+                            <span class="icon">
+                                <i class="fas fa-envelope fa-lg"></i>
+                            </span>
+                        </a>
+                    </p>
+                    
+                </div>
+            </div>
+
+            <div class="hero-footer">
+                <div class="content has-text-centered">
+                    <p>
+                        © 2019
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    </body>
+</html>
+
