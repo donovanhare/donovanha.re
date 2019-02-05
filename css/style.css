@@ -1,5 +1,5 @@
 .hero {
-    background-image: url(./img/stars_blur.jpg) !important;
+    background-image: url(../img/stars_blur.jpg) !important;
     background-size: 220%;/*cover*/
     background-repeat: no-repeat;
 }
